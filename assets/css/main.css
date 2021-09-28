@@ -1,0 +1,50 @@
+body {
+  background-color: #e5e5e5;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-login {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  background-color: #ECF0F4;
+}
+
+.card-login .form-login {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-bottom: -65px;
+}
+
+.card-login .form-login .forgot-password {
+  font-weight: 400;
+  color: #868B90;
+}
+
+.card-login .form-login .btn-login {
+  background-color: #77C5FD;
+  color: #ffff;
+  font-weight: bold;
+  border-radius: 12px;
+}
+
+.card-login .right-content {
+  background-color: #4424A7;
+  background-image: url("../img/bg-right.svg");
+  background-size: cover;
+  margin-top: -16px;
+  margin-bottom: -16px;
+}
+
+.card-login .right-content .right-content-groub {
+  margin-top: 100px;
+}
+
+.card-login .right-content .right-description h5, .card-login .right-content .right-description p {
+  color: #ffff;
+}
+
+.card-login .right-content .right-description p {
+  font-weight: lighter;
+}
+/*# sourceMappingURL=main.css.map */
