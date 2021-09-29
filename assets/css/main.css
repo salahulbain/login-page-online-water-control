@@ -28,6 +28,11 @@ body {
   border-radius: 12px;
 }
 
+.card-login .form-login .btn-login:hover {
+  background-color: #4caaee;
+  color: #ffff;
+}
+
 .card-login .right-content {
   background-color: #4424A7;
   background-image: url("../img/bg-right.svg");
